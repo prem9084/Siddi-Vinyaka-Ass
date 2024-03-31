@@ -2,6 +2,6 @@ In the project, use Context Api for user authentication. In the project, admin p
 
 if you want to login with my credantial
 for admin user :-
-{eamil : admin@admin.com
+{email : admin@admin.com ,
 password: 123456}
 
